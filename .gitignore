@@ -1,0 +1,5 @@
+echo "# Virtual environment
+venv/
+env/
+CNNmodel.h5
+" > .gitignore
